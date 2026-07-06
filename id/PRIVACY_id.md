@@ -22,7 +22,7 @@ Jika Situs menyediakan formulir (misalnya formulir kontak, pendaftaran minat/wai
 - Pesan atau pertanyaan yang kamu kirimkan
 
 ### 2.2 Data teknis otomatis
-Karena Situs di-hosting di **Cloudflare Pages**, sebagian data teknis dasar (seperti alamat IP, jenis browser, halaman yang diakses, dan waktu kunjungan) dapat tercatat secara otomatis melalui infrastruktur Cloudflare untuk keperluan keamanan dan performa jaringan. Kami sendiri tidak menjalankan sistem analitik pelacakan pihak ketiga (seperti Google Analytics) kecuali dinyatakan lain di bagian 2.3 di bawah.
+Karena Situs di-hosting di **GitHub Pages**, sebagian data teknis dasar (seperti alamat IP, jenis browser, halaman yang diakses, dan waktu kunjungan) dapat tercatat secara otomatis melalui infrastruktur Cloudflare untuk keperluan keamanan dan performa jaringan. Kami sendiri tidak menjalankan sistem analitik pelacakan pihak ketiga (seperti Google Analytics) kecuali dinyatakan lain di bagian 2.3 di bawah.
 
 ### 2.3 Cookies
 Situs ini saat ini **tidak menggunakan cookies pelacakan (tracking cookies)** untuk iklan atau profiling. Jika di masa depan kami menambahkan alat analitik yang menggunakan cookies, kami akan memperbarui bagian ini dan menyediakan mekanisme persetujuan (consent) yang sesuai.
