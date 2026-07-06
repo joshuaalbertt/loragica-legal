@@ -22,7 +22,7 @@ Jika Situs menyediakan formulir (misalnya formulir kontak, pendaftaran minat/wai
 - Pesan atau pertanyaan yang kamu kirimkan
 
 ### 2.2 Data teknis otomatis
-Karena Situs di-hosting di **GitHub Pages**, sebagian data teknis dasar (seperti alamat IP, jenis browser, halaman yang diakses, dan waktu kunjungan) dapat tercatat secara otomatis melalui infrastruktur Cloudflare untuk keperluan keamanan dan performa jaringan. Kami sendiri tidak menjalankan sistem analitik pelacakan pihak ketiga (seperti Google Analytics) kecuali dinyatakan lain di bagian 2.3 di bawah.
+Karena Situs di-hosting di **GitHub Pages**, sebagian data teknis dasar (seperti alamat IP, jenis browser, halaman yang diakses, dan waktu kunjungan) dapat tercatat secara otomatis melalui infrastruktur GitHub untuk keperluan keamanan dan performa jaringan. Kami sendiri tidak menjalankan sistem analitik pelacakan pihak ketiga (seperti Google Analytics) kecuali dinyatakan lain di bagian 2.3 di bawah.
 
 ### 2.3 Cookies
 Situs ini saat ini **tidak menggunakan cookies pelacakan (tracking cookies)** untuk iklan atau profiling. Jika di masa depan kami menambahkan alat analitik yang menggunakan cookies, kami akan memperbarui bagian ini dan menyediakan mekanisme persetujuan (consent) yang sesuai.
@@ -48,7 +48,7 @@ Data formulir yang kamu kirimkan disimpan menggunakan layanan pihak ketiga teper
 
 ## 5. Pihak Ketiga
 
-Situs ini di-hosting menggunakan **Cloudflare Pages**. Penggunaan Situs ini secara tidak langsung tunduk pula pada [Kebijakan Privasi Cloudflare](https://www.cloudflare.com/privacypolicy/) untuk hal-hal yang berkaitan dengan infrastruktur jaringan mereka.
+Situs ini di-hosting menggunakan **GitHub Pages**. Penggunaan Situs ini secara tidak langsung tunduk pula pada [Kebijakan Privasi GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) untuk hal-hal yang berkaitan dengan infrastruktur jaringan mereka.
 
 Kami tidak membagikan data pribadimu kepada pihak ketiga lain di luar yang disebutkan dalam dokumen ini, kecuali diwajibkan oleh hukum yang berlaku di Indonesia.
 
@@ -74,6 +74,7 @@ Karena Loragica masih dalam tahap awal pengembangan, kebijakan ini kemungkinan a
 ## 8. Kontak
 
 Jika kamu punya pertanyaan tentang kebijakan privasi ini atau ingin menggunakan hak atas data pribadimu, silakan hubungi kami.
+Email: official.loragica@gmail.com
 
 ---
 
