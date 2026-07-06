@@ -85,7 +85,7 @@ These Terms and Conditions are governed by and construed in accordance with the 
 
 ## 9. Contact
 
-Questions regarding these Terms and Conditions can be directed to us.
+Questions regarding these Terms and Conditions can be directed to us. Email: official.loragica@gmail.com
 
 ---
 
