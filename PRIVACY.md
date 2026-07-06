@@ -22,7 +22,7 @@ If the Site provides any forms (such as contact forms, interest/waitlist registr
 * Messages or inquiries you send
 
 ### 2.2 Automatic technical data
-Because the Site is hosted on **Cloudflare Pages**, certain basic technical data (such as IP address, browser type, pages accessed, and time of visit) may be recorded automatically through Cloudflare's infrastructure for security and network performance purposes. We do not run third-party tracking analytics systems (such as Google Analytics) ourselves unless stated otherwise in section 2.3 below.
+Because the Site is hosted on **GitHub**, certain basic technical data (such as IP address, browser type, pages accessed, and time of visit) may be recorded automatically through GitHub's infrastructure for security and network performance purposes. We do not run third-party tracking analytics systems (such as Google Analytics) ourselves unless stated otherwise in section 2.3 below.
 
 ### 2.3 Cookies
 This Site currently **does not use tracking cookies** for advertising or profiling. If we add analytics tools that use cookies in the future, we will update this section and provide an appropriate consent mechanism.
@@ -48,7 +48,7 @@ The form data you submit is stored using trusted third-party services (such as e
 
 ## 5. Third Parties
 
-This Site is hosted using **Cloudflare Pages**. Use of this Site is indirectly subject to the [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/) for matters relating to their network infrastructure.
+This Site is hosted using **GitHub Pages**. Use of this Site is indirectly subject to the [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) for matters relating to their network infrastructure.
 
 We do not share your personal data with any other third parties outside of those mentioned in this document, unless required by applicable law in Indonesia.
 
@@ -73,7 +73,7 @@ As Loragica is still in its early stages of development, this policy is likely t
 
 ## 8. Contact
 
-If you have any questions about this privacy policy or wish to exercise your rights regarding your personal data, please contact us.
+If you have any questions about this privacy policy or wish to exercise your rights regarding your personal data, please contact us. Email: official.loragica@gmail.com
 
 ---
 
