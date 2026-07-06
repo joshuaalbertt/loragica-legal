@@ -85,7 +85,7 @@ Syarat dan Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Republi
 
 ## 9. Kontak
 
-Pertanyaan seputar Syarat dan Ketentuan ini bisa disampaikan kepada kami.
+Pertanyaan seputar Syarat dan Ketentuan ini bisa disampaikan kepada kami melalui Email: official.loragica@gmail.com
 
 ---
 
